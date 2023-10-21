@@ -1,0 +1,14 @@
+10/14/23
+MIT TECHNOLOGY OVERVIEW
+https://www.technologyreview.com/
+
+ORACLE DB MACHINE LEARNING ALGORITHMS
+https://www.oracle.com/database/technologies/advanced-analytics/odm-techniques-algorithms.html#:~:text=Generalized%20Linear%20Models%20Logistic%20Regression%20%E2%80%94classic%20statistical%20technique,ML%20algorithms%29%20Naive%20Bayes%20%E2%80%94Fast%2C%20simple%2C%20commonly%20applicable.
+
+10/21/23
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://scrapy.org/
+www.allenai.com
+https://flexiple.com/python/python-reserved-words
+https://programminginneuroscience.com/
+
