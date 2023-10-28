@@ -8,3 +8,5 @@ structured data:  .csv, .json, databases,
     csv - extensively used for analytics (finance)
 
 dataframe - to represent a structure in rows and columns, csv's are an example df.
+
+https://data.gov/ - datasets available
