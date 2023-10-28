@@ -1,1 +1,9 @@
 
+
+
+unstructed data:  word documents, movie files, image files, audio
+
+structured data:  .csv, .json, databases, 
+    from Amazon -> Structured data is data that has a standardized format for efficient access by software and humans alike. It is typically tabular with rows and columns that clearly define data attributes. Computers can effectively process structured data for insights due to its quantitative nature
+    csv - extensively used for analytics (finance)
+
