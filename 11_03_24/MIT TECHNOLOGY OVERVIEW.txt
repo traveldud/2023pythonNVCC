@@ -1,0 +1,61 @@
+10/14/23
+MIT TECHNOLOGY OVERVIEW
+https://www.technologyreview.com/
+
+ORACLE DB MACHINE LEARNING ALGORITHMS
+https://www.oracle.com/database/technologies/advanced-analytics/odm-techniques-algorithms.html#:~:text=Generalized%20Linear%20Models%20Logistic%20Regression%20%E2%80%94classic%20statistical%20technique,ML%20algorithms%29%20Naive%20Bayes%20%E2%80%94Fast%2C%20simple%2C%20commonly%20applicable.
+
+10/21/23
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://scrapy.org/
+www.allenai.com
+https://flexiple.com/python/python-reserved-words
+https://programminginneuroscience.com/
+
+10/28/23
+https://aws.amazon.com/what-is/structured-data/
+https://hazelcast.com/glossary/serialization/
+https://pypi.org/project/Flask/
+https://pytorch.org/
+https://system76.com/
+nvidea laptop for AI stuff
+
+OOP - everything from one "object" superclass
+    - you are creating s/w design around data, or "objects" (-aka Nouns), rather than functions
+    - four inherint polymorphism, encapsulation, abstraction, inheritance
+
+https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP#:~:text=Object%2Doriented%20programming%20(OOP)%20is%20a%20computer%20programming%20model,has%20unique%20attributes%20and%20behavior. 
+
+
+"self" will allow it share variables among the methods within the class
+
+
+11/3/2023
+https://www.databricks.com/
+https://h2o.ai/
+https://www.dice.com/
+https://docs.python.org/3/library/tkinter.html
+	fractals evident in the data using tkinter 
+https://www.amazon.com/Chaos-Fractals-New-Frontiers-Science/dp/0387979034
+https://www.meetup.com/computational-neuroscience-meetup-group/
+https://code.visualstudio.com/download
+
+In VisualStudio click on the "extensions" icon to load python to function in visual studio
+
+https://en.wikipedia.org/wiki/Lexicology
+class EX:_13e_14e_Identity.py  (print (id(northItems) is id(eastItems)) #because of lexicology, differenct pronunctiations for example)
+
+https://blog.marketmuse.com/glossary/term-frequency-definition/
+
+ctrl H, for search and replace
+
+
+
+go through problems and check solutions
+then comment all the solutions
+
+
+
+
+
+ 
